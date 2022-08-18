@@ -1,2 +1,3 @@
-# test
-for test of git
+# test-clx
+個人的にclxについて学ぼうと思って作ったリポジトリです。
+これもやりかけです笑
